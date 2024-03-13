@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import {react} from 'react'
 import { Section } from './Section'
 
@@ -22,3 +23,13 @@ export const GeneralInfo = () => {
     )
 
 }
+=======
+
+
+const General = () => {
+
+    return <div>General</div>
+}
+
+export default General
+>>>>>>> main

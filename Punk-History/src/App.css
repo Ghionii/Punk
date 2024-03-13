@@ -5,3 +5,15 @@
   text-align: center;
 }
 
+body {
+  background: yellow;
+}
+
+h1 {
+  color: #de006f;
+}
+
+header {
+  background-color: yellow;
+  border: 2px solid #de006f;
+}
