@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 export const Section = ({img, text}) => {
 
 
@@ -13,13 +12,3 @@ export const Section = ({img, text}) => {
         </>
     )
 }
-=======
-
-
-const Section = () => {
-
-    return <div>Section</div>
-}
-
-export default Section
->>>>>>> main
