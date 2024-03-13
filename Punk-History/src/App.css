@@ -17,3 +17,7 @@ header {
   background-color: yellow;
   border: 2px solid #de006f;
 }
+
+li {
+  list-style: none;
+}
